@@ -1,0 +1,17 @@
+.formulario-container {
+    display: flex;
+    justify-content: center;
+    margin: 5rem 0;
+
+}
+.formulario-container .formulario {
+    max-width: 80%;
+    background: #F7F7F7;
+    box-shadow: 7px 7px 15px rgba(0, 0, 0, 0.08);
+    border-radius: 20px;
+    padding: 2.25rem 4rem;
+}
+.formulario-container .formulario h2 {
+    font-weight: 400;
+    font-size: 2rem;
+}

@@ -1,0 +1,18 @@
+.footer {
+    background: #00caea;
+    color: #FFF;
+    padding: 5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.footer ul li {
+    display: inline-block;
+    margin-right: 2rem;
+}
+
+.footer ul li:last-child {
+    margin-right: 0;
+}
